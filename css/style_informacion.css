@@ -108,6 +108,9 @@ margin-top: 20px;
 background-color: #A7FFA7;
 }
 
-#ubicacion {
+.ubicacion {
 background-color: #FB6E9D;
+  max-width: 60%;
+  height: auto;
+}
 }
